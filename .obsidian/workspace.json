@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello/shubha.md",
+                "file": "Academic/Dashboard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello/shubha.md",
+                "file": "Academic/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello/shubha.md",
+                "file": "Academic/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello/shubha.md"
+                "file": "Academic/Dashboard.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa63c051369f577c",
+  "active": "fecbd33883a42f33",
   "lastOpenFiles": [
     "github.com/shubham-attri.md",
     "hello/shubha.md",

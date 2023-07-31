@@ -129,8 +129,17 @@
                 "file": "Academic/College DashBoard.md"
               }
             }
+          },
+          {
+            "id": "2fc55c3edcadab27",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa63c051369f577c",
+  "active": "2fc55c3edcadab27",
   "lastOpenFiles": [
     "Learning",
     "Academic/College DashBoard.md",

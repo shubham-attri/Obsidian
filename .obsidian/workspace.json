@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Dashboard.md",
+                "file": "Academic/College DashBoard.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Dashboard.md",
+                "file": "Academic/College DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Dashboard.md",
+                "file": "Academic/College DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,24 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Dashboard.md"
+                "file": "Academic/College DashBoard.md"
               }
             }
-          },
-          {
-            "id": "b3a1b6fe02389a8b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,7 +151,8 @@
   },
   "active": "fa63c051369f577c",
   "lastOpenFiles": [
-    "Academic/Dashboard.md",
+    "Learning",
+    "Academic/College DashBoard.md",
     "github.com/shubham-attri.md",
     "hello/shubha.md",
     "hello",

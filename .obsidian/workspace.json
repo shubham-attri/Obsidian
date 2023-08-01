@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d690522f139902b6",
@@ -174,8 +175,8 @@
   },
   "active": "8cd9df2b832762c4",
   "lastOpenFiles": [
-    "Academic/Course/Machine Learning.md",
     "Independent Project.md",
+    "Academic/Course/Machine Learning.md",
     "Research",
     "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     "Academic/College DashBoard.md",

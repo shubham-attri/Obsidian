@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c52071a92bbd7cae",
+        "id": "1b689a6014270d06",
         "type": "tabs",
         "children": [
           {
-            "id": "02e120190dc192ee",
+            "id": "2cc5a5e4cfc079ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Course/Machine Learning.md",
+                "file": "Academic/Course/Computer Networks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Course/Machine Learning.md",
+                "file": "Academic/Course/Computer Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Course/Machine Learning.md",
+                "file": "Academic/Course/Computer Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,20 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Course/Machine Learning.md"
+                "file": "Academic/Course/Computer Networks.md"
               }
-            }
-          },
-          {
-            "id": "2fc55c3edcadab27",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,15 +149,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02e120190dc192ee",
+  "active": "2cc5a5e4cfc079ec",
   "lastOpenFiles": [
+    "Computer Networks/Lectures.md",
+    "Computer Networks/lecture1.md",
+    "Academic/Course/Computer Networks.md",
+    "Academic/Course/Lecture 1.md",
+    "Computer Networks",
     "Academic/Course/Machine Learning.md",
     "Independent Project.md",
     "Research",
     "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     "Academic/College DashBoard.md",
     "Machine - Learning - Tom Mitchell.pdf",
-    "Academic/Course/Computer Networks.md",
     "Academic/Courses",
     "Academic/Course/Software Development using Open Source.md",
     "Academic/Course",

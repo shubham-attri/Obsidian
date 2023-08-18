@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Course/Computer Networks.md",
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Course/Computer Networks.md",
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Course/Computer Networks.md",
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Course/Computer Networks.md"
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md"
               }
             }
           }
@@ -151,11 +151,13 @@
   },
   "active": "2cc5a5e4cfc079ec",
   "lastOpenFiles": [
+    "Academic/Course/Computer Networks.md",
+    "Computer Networks/Assignments/CSE 232 Assignment 1.md",
+    "Computer Networks/Assignments",
+    "Computer Networks",
     "Computer Networks/Lectures.md",
     "Computer Networks/lecture1.md",
-    "Academic/Course/Computer Networks.md",
     "Academic/Course/Lecture 1.md",
-    "Computer Networks",
     "Academic/Course/Machine Learning.md",
     "Independent Project.md",
     "Research",
@@ -172,7 +174,6 @@
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-07-31 04.19.32.excalidraw.md",
     "Excalidraw",
-    "2023-07-31.md",
-    "Academic"
+    "2023-07-31.md"
   ]
 }

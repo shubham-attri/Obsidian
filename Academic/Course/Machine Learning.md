@@ -2,6 +2,10 @@
 
 [Video Lecture](https://www.youtube.com/watch?v=m4NlfvrRCdg&list=PLl-BBnDxtUt1hLXmIwu27P22bTi6VwMkN)
 
+[[http://www.cs.cmu.edu/~ninamf/courses/601sp15/prev.shtml]]
+
+[course](http://www.cs.cmu.edu/~ninamf/courses/601sp15/prev.shtml)
+
 **Course Structure**
 
 | Type of Evaluation | %Contribution in Grade          |

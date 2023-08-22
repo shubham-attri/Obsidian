@@ -6,6 +6,9 @@
 
 [course](http://www.cs.cmu.edu/~ninamf/courses/601sp15/prev.shtml)
 
+[[Age-Based Certification of Live-Stream Chats Using Sentiment Analysis]]
+
+
 **Course Structure**
 
 | Type of Evaluation | %Contribution in Grade          |

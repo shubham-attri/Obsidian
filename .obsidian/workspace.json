@@ -16,12 +16,15 @@
             }
           },
           {
-            "id": "6e196aa9c3cbf05a",
+            "id": "e72a6d4102572310",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md"
+              }
             }
           }
         ],
@@ -151,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e196aa9c3cbf05a",
+  "active": "e72a6d4102572310",
   "lastOpenFiles": [
+    "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
+    "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Academic/Course/Machine Learning.md",
     "Computer Networks/Assignments/CSE 232 Assignment 1.md",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md"
+                "file": "Computer Networks/Assignments/CSE 232 Assignment 1.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   },
   "active": "e72a6d4102572310",
   "lastOpenFiles": [
-    "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
+    "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+    "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
     "Academic/Course/Machine Learning.md",
     "Computer Networks/Assignments/CSE 232 Assignment 1.md",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
@@ -179,7 +180,6 @@
     "Academic/Course/Lecture 1.md",
     "Independent Project.md",
     "Research",
-    "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     "Academic/College DashBoard.md",
     "Machine - Learning - Tom Mitchell.pdf",
     "Academic/Courses",
@@ -191,7 +191,6 @@
     "github.com",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-07-31 04.19.32.excalidraw.md",
-    "Excalidraw",
     "2023-07-31.md"
   ]
 }

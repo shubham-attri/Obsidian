@@ -4,23 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "de2a302eca83e21c",
+        "id": "d583c2be0a137157",
         "type": "tabs",
         "children": [
           {
-            "id": "653a90fa9dbb8d0e",
+            "id": "8cf69e778fa98958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e196aa9c3cbf05a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.4.5"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,12 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "653a90fa9dbb8d0e",
+  "active": "6e196aa9c3cbf05a",
   "lastOpenFiles": [
     "Academic/Course/Machine Learning.md",
+    "Computer Networks/Assignments/CSE 232 Assignment 1.md",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
     "Course.md",
-    "Computer Networks/Assignments/CSE 232 Assignment 1.md",
     "Screenshot 2023-08-18 at 4.46.34 PM 1.png.md",
     "Screenshot 2023-08-18 at 4.46.25 PM 1.png",
     "Screenshot 2023-08-18 at 4.46.25 PM.png",

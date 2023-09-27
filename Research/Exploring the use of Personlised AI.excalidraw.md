@@ -8,6 +8,15 @@ tags: [excalidraw]
 
 
 # Text Elements
+This work is about the combination of
+Personalised AI and human feedback to 
+identify misinformation. A case study 
+using a single user's data to asses and 
+how AI adapts and evolves with user 
+feedback. Draws empirical observation 
+to identify design implications.
+ ^a7sncUou
+
 
 # Embedded files
 931e461f15a449e347485a8da37143cd9a2fb6dc: [[Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf#page=1]]
@@ -1710,6 +1719,43 @@ b63f7d4ef008b1fd7e49249be7cf1742680fd8ce: [[Exploring_the_Use_of_Personalized_AI
 			]
 		},
 		{
+			"id": "a7sncUou",
+			"type": "text",
+			"x": -77.274775048192,
+			"y": -12162.504595902352,
+			"width": 375,
+			"height": 153.6,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#ffd43b",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 903582164,
+			"version": 862,
+			"versionNonce": 1893657300,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695816315807,
+			"link": null,
+			"locked": false,
+			"text": "This work is about the combination of\nPersonalised AI and human feedback to \nidentify misinformation. A case study \nusing a single user's data to asses and \nhow AI adapts and evolves with user \nfeedback. Draws empirical observation \nto identify design implications.\n",
+			"rawText": "This work is about the combination of\nPersonalised AI and human feedback to \nidentify misinformation. A case study \nusing a single user's data to asses and \nhow AI adapts and evolves with user \nfeedback. Draws empirical observation \nto identify design implications.\n",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 149,
+			"containerId": null,
+			"originalText": "This work is about the combination of\nPersonalised AI and human feedback to \nidentify misinformation. A case study \nusing a single user's data to asses and \nhow AI adapts and evolves with user \nfeedback. Draws empirical observation \nto identify design implications.\n",
+			"lineHeight": 1.2
+		},
+		{
 			"id": "la-4O5ukDWV-PGCoE_xNq",
 			"type": "rectangle",
 			"x": 138.0894748867662,
@@ -1961,7 +2007,7 @@ b63f7d4ef008b1fd7e49249be7cf1742680fd8ce: [[Exploring_the_Use_of_Personalized_AI
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#fffce8",
-		"currentItemStrokeColor": "#f08c00",
+		"currentItemStrokeColor": "#2f9e44",
 		"currentItemBackgroundColor": "#ffd43b",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
@@ -1973,10 +2019,10 @@ b63f7d4ef008b1fd7e49249be7cf1742680fd8ce: [[Exploring_the_Use_of_Personalized_AI
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 264.85551543884685,
-		"scrollY": 12501.668306423233,
+		"scrollX": 46.446928422099916,
+		"scrollY": 12338.401700944118,
 		"zoom": {
-			"value": 1.230356759252097
+			"value": 1.2288666727465418
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

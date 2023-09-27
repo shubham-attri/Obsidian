@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "74d5bc30126b88f8",
+        "id": "2a0e7ea4843d3a64",
         "type": "tabs",
         "children": [
           {
-            "id": "798088e6cb4d660a",
+            "id": "0355745ef69fb322",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "4cc3aa8e885678ae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "55934b5023599ca5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,18 +150,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55934b5023599ca5",
+  "active": "0355745ef69fb322",
   "lastOpenFiles": [
-    "Computer Networks/Assignments/CSE 232 Assignment 1.md",
+    "Independent Project.md",
+    "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
     "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
-    "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
-    "Academic/Course/Machine Learning.md",
-    "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
     "Course.md",
-    "Screenshot 2023-08-18 at 4.46.34 PM 1.png.md",
-    "Screenshot 2023-08-18 at 4.46.25 PM 1.png",
+    "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
+    "Machine - Learning - Tom Mitchell.pdf",
     "Screenshot 2023-08-18 at 4.46.25 PM.png",
+    "Screenshot 2023-08-18 at 4.46.25 PM 1.png",
+    "Drawing 2023-09-27 11.36.29.excalidraw.md",
+    "Computer Networks/Assignments/CSE 232 Assignment 1.md",
+    "Academic/Course/Machine Learning.md",
+    "Screenshot 2023-08-18 at 4.46.34 PM 1.png.md",
     "Screenshot 2023-08-18 at 4.46.34 PM 1.png",
     "Screenshot 2023-08-18 at 4.46.34 PM.png",
     "Academic/Course/Computer Networks.md",
@@ -191,10 +173,8 @@
     "Computer Networks/Lectures.md",
     "Computer Networks/lecture1.md",
     "Academic/Course/Lecture 1.md",
-    "Independent Project.md",
     "Research",
     "Academic/College DashBoard.md",
-    "Machine - Learning - Tom Mitchell.pdf",
     "Academic/Courses",
     "Academic/Course/Software Development using Open Source.md",
     "Academic/Course",

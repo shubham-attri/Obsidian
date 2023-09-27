@@ -8,9 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-This is to tell you that this has to be done in every context 
- ^bzB2Ncqb
-
 
 # Embedded files
 931e461f15a449e347485a8da37143cd9a2fb6dc: [[Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf#page=1]]
@@ -1713,43 +1710,6 @@ b63f7d4ef008b1fd7e49249be7cf1742680fd8ce: [[Exploring_the_Use_of_Personalized_AI
 			]
 		},
 		{
-			"type": "text",
-			"version": 131,
-			"versionNonce": 197756553,
-			"isDeleted": false,
-			"id": "bzB2Ncqb",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 975.9648104256096,
-			"y": -12160.61475767578,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "#ffec99",
-			"width": 581.25,
-			"height": 38.4,
-			"seed": 1218393607,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1695795129980,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 3,
-			"text": "This is to tell you that this has to be done in every context \n",
-			"rawText": "This is to tell you that this has to be done in every context \n",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "This is to tell you that this has to be done in every context \n",
-			"lineHeight": 1.2,
-			"baseline": 34
-		},
-		{
 			"id": "la-4O5ukDWV-PGCoE_xNq",
 			"type": "rectangle",
 			"x": 138.0894748867662,
@@ -1806,6 +1766,43 @@ b63f7d4ef008b1fd7e49249be7cf1742680fd8ce: [[Exploring_the_Use_of_Personalized_AI
 			"updated": 1695796381762,
 			"link": null,
 			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 133,
+			"versionNonce": 1005629804,
+			"isDeleted": true,
+			"id": "bzB2Ncqb",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 975.7078745621941,
+			"y": -12160.61475767578,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "#ffec99",
+			"width": 581.25,
+			"height": 38.4,
+			"seed": 1218393607,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1695800258914,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "This is to tell you that this has to be done in every context \n",
+			"rawText": "This is to tell you that this has to be done in every context \n",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "This is to tell you that this has to be done in every context \n",
+			"lineHeight": 1.2,
+			"baseline": 34
 		},
 		{
 			"id": "NuUCZ6pFmLr2XO_UVW1mo",
@@ -1939,10 +1936,10 @@ b63f7d4ef008b1fd7e49249be7cf1742680fd8ce: [[Exploring_the_Use_of_Personalized_AI
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 36.82595140507416,
-		"scrollY": 12386.993375317368,
+		"scrollX": -303.18207923757,
+		"scrollY": 12222.74809386343,
 		"zoom": {
-			"value": 1.3376777206580486
+			"value": 3.1451791975929635
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

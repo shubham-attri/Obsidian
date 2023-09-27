@@ -24,9 +24,19 @@
                 "currentVersion": "1.4.13"
               }
             }
+          },
+          {
+            "id": "55934b5023599ca5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc3aa8e885678ae",
+  "active": "55934b5023599ca5",
   "lastOpenFiles": [
     "Computer Networks/Assignments/CSE 232 Assignment 1.md",
     "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",

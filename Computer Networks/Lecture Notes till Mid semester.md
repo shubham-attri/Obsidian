@@ -73,6 +73,8 @@ Enterprise network is like a home network on steroids with more number of router
 **Unguided Media**: signals propagate freely, radio(signal carried in electromagnetic spectrum, interference, noise, reflection, half-duplex)
 **Twisted pair**: Two insulted copper wires 
 
+Radio Link Types:
+WiFi 
 
 #### Network Core: 
 >interconnected routers

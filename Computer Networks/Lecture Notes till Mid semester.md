@@ -74,9 +74,10 @@ Enterprise network is like a home network on steroids with more number of router
 **Twisted pair**: Two insulted copper wires 
 
 Radio Link Types:
-WiFi 
+WiFi LAN, wide area, bluetooth(short distance), terrestrial microwave (point to point), satellite (Significant propagation delay)
 
 #### Network Core: 
 >interconnected routers
 >network of networks
 
+#packetswitching #circuitswitching 

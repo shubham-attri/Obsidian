@@ -16,8 +16,22 @@
                 "file": "Research/Exploring the use of Personlised AI.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "f58aa24a18b51ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/Lecture Notes till Mid semester.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d690522f139902b6",
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Exploring the use of Personlised AI.excalidraw.md",
+                "file": "Computer Networks/Lecture Notes till Mid semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Exploring the use of Personlised AI.excalidraw.md",
+                "file": "Computer Networks/Lecture Notes till Mid semester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0318d6093d07754e",
+  "active": "f58aa24a18b51ebd",
   "lastOpenFiles": [
+    "Research/Exploring the use of Personlised AI.excalidraw.md",
+    "Computer Networks/Lecture Notes till Mid semester.md",
     "Independent Project.md",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
     "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
@@ -158,7 +175,6 @@
     "Machine - Learning - Tom Mitchell.pdf",
     "Screenshot 2023-08-18 at 4.46.25 PM.png",
     "Screenshot 2023-08-18 at 4.46.25 PM 1.png",
-    "Research/Exploring the use of Personlised AI.excalidraw.md",
     "Computer Networks/Assignments/CSE 232 Assignment 1.md",
     "Academic/Course/Machine Learning.md",
     "Screenshot 2023-08-18 at 4.46.34 PM 1.png.md",

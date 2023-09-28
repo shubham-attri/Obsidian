@@ -81,3 +81,16 @@ WiFi LAN, wide area, bluetooth(short distance), terrestrial microwave (point to 
 >network of networks
 
 #packetswitching #circuitswitching 
+
+>**Packet switching**: hosts break application layer messages into packets
+>network forwards packets from one router to the next across the links on path from source to destination 
+
+>**Forwarding** : aka switching local action: moving arriving packets from input link to router output link as per the forwarding table.
+>**Routing**: determines the source destination paths taken by packets, routing algorithms
+
+Packet transmission delay: takes L/R seconds to transmit the packet into the link. 
+store and forward : entire packet must arrive before it can be transmitted to the next link.
+
+
+
+

@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:excalidraw",
+                "query": "tag:#packetswitching",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

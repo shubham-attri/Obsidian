@@ -91,6 +91,26 @@ WiFi LAN, wide area, bluetooth(short distance), terrestrial microwave (point to 
 Packet transmission delay: takes L/R seconds to transmit the packet into the link. 
 store and forward : entire packet must arrive before it can be transmitted to the next link.
 
- 
+ There is a queue of packets wait for transmission over output link.
+ Queuing occurs when work arrives faster than it can serviced
+
+#packetloss
+  Packet queuing and loss:
+  if arrival rate to link exceeds transmission rate for some period of time
+  > packets will queue, waiting to be transmitted on output link
+  > packets can be dropped (lost) if memory(buffer) in router fills up
+
+
+>**Circuit Switching**: end-end resources allocated to reserved for call between source and destination.
+>Dedicated resources: no sharing circuit like performance is guarenteed
+>Circuit segment idle if not used by call (no sharing)
+>Commonly used in traditional telephone networks
+
+**FDM:** Optical, electromagnetic frequencies divided into narrow frequency, each call allocated its own band and can transmit at max rate of that narrow band.
+>horizontal splitting in a frequency time graph.
+
+**TDM**: divided into periodic time slots. Each call allocated slot, can transmit at maximum rate of wider frequency band (only) during its time slots.
+
+
 
 

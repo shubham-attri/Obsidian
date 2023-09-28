@@ -91,6 +91,6 @@ WiFi LAN, wide area, bluetooth(short distance), terrestrial microwave (point to 
 Packet transmission delay: takes L/R seconds to transmit the packet into the link. 
 store and forward : entire packet must arrive before it can be transmitted to the next link.
 
-
+ 
 
 

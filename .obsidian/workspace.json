@@ -29,9 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf6e902b3b9d3d10",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-09-29 17.35.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Lecture Notes till Mid semester.md",
+                "file": "Drawing 2023-09-29 17.35.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Lecture Notes till Mid semester.md",
+                "file": "Drawing 2023-09-29 17.35.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58aa24a18b51ebd",
+  "active": "bf6e902b3b9d3d10",
   "lastOpenFiles": [
-    "Research/Exploring the use of Personlised AI.excalidraw.md",
     "Computer Networks/Lecture Notes till Mid semester.md",
+    "Drawing 2023-09-29 17.35.02.excalidraw.md",
+    "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
+    "Research/Exploring the use of Personlised AI.excalidraw.md",
     "Independent Project.md",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
     "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
@@ -193,7 +205,6 @@
     "github.com/shubham-attri.md",
     "hello/shubha.md",
     "hello",
-    "github.com",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-07-31 04.19.32.excalidraw.md",
     "2023-07-31.md"

@@ -114,4 +114,4 @@ store and forward : entire packet must arrive before it can be transmitted to th
 >**Packet Switching Vs Circuit Switching**
 >packet switching is for bursty data. Within in a same 
 
-
+![[Computer Networking _ A Top Down Approach, 7th, converted.pdf]]

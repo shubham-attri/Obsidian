@@ -405,7 +405,7 @@
   ],
   "numberOfCustomPens": 0,
   "pdfScale": 4,
-  "pdfBorderBox": true,
+  "pdfBorderBox": false,
   "pdfGapSize": 20,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,

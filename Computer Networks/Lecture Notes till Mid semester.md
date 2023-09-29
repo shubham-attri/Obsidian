@@ -111,6 +111,7 @@ store and forward : entire packet must arrive before it can be transmitted to th
 
 **TDM**: divided into periodic time slots. Each call allocated slot, can transmit at maximum rate of wider frequency band (only) during its time slots.
 
-
+>**Packet Switching Vs Circuit Switching**
+>packet switching is for bursty data. Within in a same 
 
 

@@ -36,7 +36,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2023-09-29 17.35.02.excalidraw.md"
+                "file": "CN book.excalidraw.md"
               }
             }
           }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d690522f139902b6",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2023-09-29 17.35.02.excalidraw.md",
+                "file": "CN book.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2023-09-29 17.35.02.excalidraw.md",
+                "file": "CN book.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
   "active": "bf6e902b3b9d3d10",
   "lastOpenFiles": [
     "Computer Networks/Lecture Notes till Mid semester.md",
-    "Drawing 2023-09-29 17.35.02.excalidraw.md",
+    "CN book.excalidraw.md",
     "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
     "Research/Exploring the use of Personlised AI.excalidraw.md",
     "Independent Project.md",

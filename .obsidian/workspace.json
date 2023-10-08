@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Lecture Notes till Mid semester.md",
+                "file": "Research/Exploring the use of Personlised AI.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Lecture Notes till Mid semester.md",
+                "file": "Research/Exploring the use of Personlised AI.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Lecture Notes till Mid semester.md"
+                "file": "Research/Exploring the use of Personlised AI.excalidraw.md"
               }
             }
           }
@@ -172,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58aa24a18b51ebd",
+  "active": "0355745ef69fb322",
   "lastOpenFiles": [
-    "CN book.excalidraw.md",
     "Computer Networks/Lecture Notes till Mid semester.md",
+    "CN book.excalidraw.md",
     "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
     "Research/Exploring the use of Personlised AI.excalidraw.md",
     "Independent Project.md",

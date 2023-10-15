@@ -51,3 +51,5 @@ the study had two conditions: an unassisted condition and an assisted condition.
 ## Remarks 
 
 
+
+![[ChatPDF-Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media (1).txt]]

@@ -51,5 +51,62 @@ the study had two conditions: an unassisted condition and an assisted condition.
 ## Remarks 
 
 
+The issue of AI influencing user judgments is a concern for deployment, as the study found that seeing AI predictions swayed users' assessments compared to when predictions were hidden, indicating over-reliance on the AI. This over-reliance on the AI could lead to users becoming more extreme in their views or disregarding accurate content. 
+
+To address this concern, the study suggests potential ideas such as requiring user justifications for their assessments. By prompting users to provide reasoning for their assessments, the study found that this appeared to mitigate bias and over-reliance on the AI. Future work could explore scenarios where users are prompted to indicate whether they agree or disagree with their AI's predictions and provide reasoning for their (dis)agreement.
+
+However, there are ethical considerations around enabling personalized curation and selective exposure. The use of personalized AI for content moderation could lead to filter bubbles, where users only receive content that supports their views and are shielded from divergent views. This could have negative consequences for democracy and social cohesion. 
+
+Moreover, there are challenges in translating this approach to real-world platforms. For example, detecting verifiable claims is a difficult task that requires significant resources and expertise. Additionally, the use of AI for content moderation raises concerns about bias and fairness, as AI models can be influenced by the data they are trained on and the biases of their creators. 
+
+Overall, the study highlights the potential benefits and challenges of using personalized AI for content moderation on social media. While the approach has the potential to combat misinformation at scale, there are concerns about the accuracy of the AI, over-reliance on the AI, and ethical considerations around personalized curation and selective exposure. Future work is needed to address these concerns and to develop effective ways to integrate personalized AI into content moderation on social media platforms.
+
+
+In the discussions and future work section, the authors highlight several important implications of their study and suggest directions for future research. One key implication is that users are influenced by the AI's predictions, but this influence can be mitigated by prompting users to provide reasoning for their assessments. This finding suggests that interventions that encourage users to think critically and justify their judgments could be effective in reducing the negative effects of AI on user judgments. Another implication is that the accuracy of the AI's predictions is an important factor that influences users' agreement with the AI. This finding suggests that improving the accuracy of AI models could lead to better user judgments and more effective content moderation. 
+
+The authors also suggest several directions for future research, such as exploring the impact of different types of AI models on user judgments, investigating the role of social influence on user judgments, and examining the long-term effects of using personalized AI for content moderation. These directions could lead to a deeper understanding of how users perceive and interact with AI in the context of content moderation and could inform the development of more effective interventions and AI models.
+
+Overall, this work provides valuable insights into the use of personalized AI for identifying misinformation on social media and highlights the importance of considering user perceptions and behaviors when designing AI-based content moderation systems. The findings and implications of this study could have significant implications for the development of more effective and user-friendly content moderation systems that leverage the power of AI while minimizing its negative effects.
 
 ![[ChatPDF-Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media (1).txt]]
+
+
+## Limitations 
+
+The study has several limitations that may affect the generalizability of its findings on users' perception and AI influence. 
+
+Firstly, the study required users to assess all tweets in the feed, whereas in reality, users may only selectively share or engage with certain tweets. This may affect the generalizability of the findings, as users' assessments and interactions with the AI may differ in a more realistic scenario.
+
+Secondly, the AI training in the study was simplified, as it only used a single feature (the user's assessment) to update the model. In reality, AI models are often trained on a variety of features, such as user behavior, content features, and network structure. This may affect the generalizability of the findings, as the AI's influence on user assessments may differ in a more complex AI model.
+
+Thirdly, the study did not consider users' attitudes toward AI, such as their trust in AI or their willingness to use AI for content moderation. This may affect the generalizability of the findings, as users' attitudes toward AI may influence their perception and use of personalized AI for content moderation.
+
+Overall, these limitations suggest that the findings of the study should be interpreted with caution and that future work is needed to address these limitations and to develop a more comprehensive understanding of users' perception and AI influence in personalized AI for content moderation.
+
+Me: Summarize key takeaways from study on promise and risks of personalized AI for combating misinformation.
+Emphasize that further research needed before deploying such an approach given concerns found.
+
+PDF: The study found that personalized AI has the potential to combat misinformation at scale and that users generally had a positive perception of the approach. However, there are concerns about the accuracy of the AI, over-reliance on the AI, and ethical considerations around personalized curation and selective exposure. 
+
+The study suggests that further research is needed before deploying such an approach, given the concerns found. Future work could explore scenarios where users are prompted to indicate whether they agree or disagree with their AI's predictions and provide reasoning for their (dis)agreement. Additionally, future work is needed to address the limitations of the study and to develop a more comprehensive understanding of users' perception and AI influence in personalized AI for content moderation. 
+
+Overall, the study highlights the promise and risks of using personalized AI for combating misinformation on social media and suggests that further research is needed before deploying such an approach.
+
+
+## Strenghts and weakness of papers
+Strengths of the paper:
+- The study provides valuable insights into how users perceive personalized AI for assessing the accuracy of online content and how they are influenced by seeing the accuracy predictions of the AI.
+- The study identifies an intervention that could mitigate the influence of AI on user judgments, which is prompting users to provide reasoning for their assessments.
+- The study highlights the potential benefits and challenges of using personalized AI for content moderation on social media and raises important ethical considerations around personalized curation and selective exposure.
+- The study provides a comprehensive review of related work in the literature related to detecting and dealing with misinformation on social media platforms and the influence of AI on human decision making.
+
+Weaknesses of the paper:
+- The study has several limitations that may affect the generalizability of its findings, such as the simplified AI training and the requirement for users to assess all tweets in the feed.
+- The study did not consider users' attitudes toward AI, such as their trust in AI or their willingness to use AI for content moderation.
+- The study was conducted in a controlled laboratory setting, which may not reflect the complexity and diversity of real-world social media platforms.
+
+Possible future research scope in students' context:
+- Future research could explore the use of personalized AI for identifying misinformation in educational contexts, such as online learning platforms or social media groups for students.
+- Future research could investigate the effectiveness of different interventions to mitigate the influence of AI on student judgments, such as prompting students to provide reasoning for their assessments or providing feedback on the accuracy of their assessments.
+- Future research could examine the ethical considerations around personalized curation and selective exposure in educational contexts, such as the potential for filter bubbles or the impact on students' critical thinking skills.
+- Future research could explore the potential benefits and challenges of using personalized AI for content moderation in student communities, such as identifying and addressing cyberbullying or hate speech.

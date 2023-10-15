@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a0e7ea4843d3a64",
+        "id": "6a46eafb4d4b258e",
         "type": "tabs",
         "children": [
           {
-            "id": "0355745ef69fb322",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/Exploring the use of Personlised AI.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f58aa24a18b51ebd",
+            "id": "44ea3b0670ac1974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/Lecture Notes till Mid semester.md",
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#packetswitching",
+                "query": "tag:#Assesment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Exploring the use of Personlised AI.excalidraw.md",
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Exploring the use of Personlised AI.excalidraw.md",
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Exploring the use of Personlised AI.excalidraw.md"
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,18 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0355745ef69fb322",
+  "active": "8d168cf15d11b6a0",
   "lastOpenFiles": [
+    "Independent Project.md",
+    "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
+    "Research/Exploring the use of Personlised AI.excalidraw.md",
+    "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+    "Slides for.md",
     "Computer Networks/Lecture Notes till Mid semester.md",
     "CN book.excalidraw.md",
     "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
-    "Research/Exploring the use of Personlised AI.excalidraw.md",
-    "Independent Project.md",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
-    "Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Course.md",
-    "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
     "Machine - Learning - Tom Mitchell.pdf",
     "Screenshot 2023-08-18 at 4.46.25 PM.png",
     "Screenshot 2023-08-18 at 4.46.25 PM 1.png",

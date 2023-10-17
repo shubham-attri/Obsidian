@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8199a830e41e6b5c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8199a830e41e6b5c",
+  "active": "44ea3b0670ac1974",
   "lastOpenFiles": [
     "ChatPDF-Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media (1).txt",
     "Independent Project.md",

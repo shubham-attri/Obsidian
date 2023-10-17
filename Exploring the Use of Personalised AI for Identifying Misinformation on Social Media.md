@@ -83,10 +83,15 @@ Thirdly, the study did not consider users' attitudes toward AI, such as their tr
 
 Overall, these limitations suggest that the findings of the study should be interpreted with caution and that future work is needed to address these limitations and to develop a more comprehensive understanding of users' perception and AI influence in personalized AI for content moderation.
 
+
+## Summary
+
+
 Me: Summarize key takeaways from study on promise and risks of personalized AI for combating misinformation.
 Emphasize that further research needed before deploying such an approach given concerns found.
 
-PDF: The study found that personalized AI has the potential to combat misinformation at scale and that users generally had a positive perception of the approach. However, there are concerns about the accuracy of the AI, over-reliance on the AI, and ethical considerations around personalized curation and selective exposure. 
+#promises and #risks
+The study found that personalized AI has the potential to combat misinformation at scale and that users generally had a positive perception of the approach. However, there are concerns about the accuracy of the AI, over-reliance on the AI, and ethical considerations around personalized curation and selective exposure. 
 
 The study suggests that further research is needed before deploying such an approach, given the concerns found. Future work could explore scenarios where users are prompted to indicate whether they agree or disagree with their AI's predictions and provide reasoning for their (dis)agreement. Additionally, future work is needed to address the limitations of the study and to develop a more comprehensive understanding of users' perception and AI influence in personalized AI for content moderation. 
 
@@ -94,6 +99,7 @@ Overall, the study highlights the promise and risks of using personalized AI for
 
 
 ## Strenghts and weakness of papers
+
 Strengths of the paper:
 - The study provides valuable insights into how users perceive personalized AI for assessing the accuracy of online content and how they are influenced by seeing the accuracy predictions of the AI.
 - The study identifies an intervention that could mitigate the influence of AI on user judgments, which is prompting users to provide reasoning for their assessments.
@@ -105,7 +111,8 @@ Weaknesses of the paper:
 - The study did not consider users' attitudes toward AI, such as their trust in AI or their willingness to use AI for content moderation.
 - The study was conducted in a controlled laboratory setting, which may not reflect the complexity and diversity of real-world social media platforms.
 
-Possible future research scope in students' context:
+## Possible future research scope in students' context:
+
 - Future research could explore the use of personalized AI for identifying misinformation in educational contexts, such as online learning platforms or social media groups for students.
 - Future research could investigate the effectiveness of different interventions to mitigate the influence of AI on student judgments, such as prompting students to provide reasoning for their assessments or providing feedback on the accuracy of their assessments.
 - Future research could examine the ethical considerations around personalized curation and selective exposure in educational contexts, such as the potential for filter bubbles or the impact on students' critical thinking skills.

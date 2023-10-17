@@ -84,7 +84,7 @@ Thirdly, the study did not consider users' attitudes toward AI, such as their tr
 Overall, these limitations suggest that the findings of the study should be interpreted with caution and that future work is needed to address these limitations and to develop a more comprehensive understanding of users' perception and AI influence in personalized AI for content moderation.
 
 
-## Summary
+## Conclusion
 
 
 Me: Summarize key takeaways from study on promise and risks of personalized AI for combating misinformation.

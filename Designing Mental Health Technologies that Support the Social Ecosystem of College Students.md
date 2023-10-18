@@ -1,6 +1,9 @@
 
 ## Introduction 
 
+
+Mental health problems among college students have been increasing over the last decade, and college counseling centers are struggling to keep up with the demand for services. The paper suggests that digital mental health tools offer a potential solution to expand the reach of mental health services for college students.
+
 1. Mental health problems rising among college students: 2 states that there has been a significant increase in mental health problems among college students over the past decade. This includes issues such as depression, anxiety, and stress, which can have a negative impact on academic performance and overall well-being. 
 2. College counseling centers struggling to meet demand: Due to the increase in mental health problems among college students, counseling centers on college campuses are struggling to keep up with the demand for services. This can result in long wait times for appointments and limited availability of resources. 
 3. Digital mental health tools can expand reach of services: To address the challenges faced by college counseling centers, digital mental health tools offer a potential solution to expand the reach of mental health services for college students. These tools can provide students with access to mental health resources and support, regardless of their location or the availability of in-person services.

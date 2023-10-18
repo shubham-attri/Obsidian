@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2375b3746e722cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Assesment",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,13 +80,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d690522f139902b6",
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+                "file": "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+                "file": "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md"
+                "file": "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md"
               }
             }
           }
@@ -162,8 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44ea3b0670ac1974",
+  "active": "a2375b3746e722cd",
   "lastOpenFiles": [
+    "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
+    "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md",
     "ChatPDF-Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media (1).txt",
     "Independent Project.md",
     "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",
@@ -174,7 +188,6 @@
     "CN book.excalidraw.md",
     "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
-    "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Course.md",
     "Machine - Learning - Tom Mitchell.pdf",
     "Screenshot 2023-08-18 at 4.46.25 PM.png",
@@ -197,7 +210,6 @@
     "Academic/Course",
     "github.com/shubham-attri.md",
     "hello/shubha.md",
-    "hello",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-07-31 04.19.32.excalidraw.md",
     "2023-07-31.md"

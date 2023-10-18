@@ -72,3 +72,5 @@ More
 4. Identifying ways to design digital mental health tools that are culturally sensitive and tailored to the needs of diverse student populations. 
 5. Investigating the role of peer support and social networks in promoting mental health and well-being among college students and identifying ways to design digital mental health tools that facilitate peer support and community building. 
 6. Exploring the potential of digital mental health tools to complement and enhance in-person mental health services, such as counseling and therapy, and identifying ways to integrate digital tools into existing mental health care systems.
+
+![[Designing Mental Health Technologies that support the social ecosystem of college students .pdf]]

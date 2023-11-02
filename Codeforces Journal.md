@@ -11,3 +11,6 @@ Starting off early solving the question i was stuck on for a day or something, l
 
 25th October:
 I couldn't do any much, no progress was made on the day.
+
+2nd November:
+

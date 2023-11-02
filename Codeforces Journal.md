@@ -13,4 +13,4 @@ Starting off early solving the question i was stuck on for a day or something, l
 I couldn't do any much, no progress was made on the day.
 
 2nd November:
-
+I was off and not consistent with so many days at all. But did gave a virtual contest though, Need to up-solve that now, on it only. I Need to build the consistency around sitting down and putting some effort in coding.

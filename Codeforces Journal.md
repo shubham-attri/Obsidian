@@ -10,3 +10,4 @@ Couldn't do much only a few submissions were made and not much of the Practise w
 Starting off early solving the question i was stuck on for a day or something, learning how to find the subsequence of an array in shorter time constraints. Still solving the div 3 905
 
 25th October:
+I couldn't do any much, no progress was made on the day.

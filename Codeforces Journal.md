@@ -14,3 +14,7 @@ I couldn't do any much, no progress was made on the day.
 
 2nd November:
 I was off and not consistent with so many days at all. But did gave a virtual contest though, Need to up-solve that now, on it only. I Need to build the consistency around sitting down and putting some effort in coding.
+
+
+3rd November:
+Started my day a little late, after a long night. Starting off by directly solving the CF questions of various rating and putting some thinking into the questions. There is also a contest today that I'll give.

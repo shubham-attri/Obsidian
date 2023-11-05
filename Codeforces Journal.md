@@ -18,3 +18,7 @@ I was off and not consistent with so many days at all. But did gave a virtual co
 
 3rd November:
 Started my day a little late, after a long night. Starting off by directly solving the CF questions of various rating and putting some thinking into the questions. There is also a contest today that I'll give.
+
+5th November:
+Took a day off, Now back with the things. I need to up solve the contest. Doing that only. Starting off with the work a little late though.
+

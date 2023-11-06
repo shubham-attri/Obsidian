@@ -22,3 +22,5 @@ Started my day a little late, after a long night. Starting off by directly solvi
 5th November:
 Took a day off, Now back with the things. I need to up solve the contest. Doing that only. Starting off with the work a little late though.
 
+6th November:
+I couldn't solve much yesterday, but starting today a little early hoping to make a good progress today.

@@ -26,4 +26,4 @@ Took a day off, Now back with the things. I need to up solve the contest. Doing 
 I couldn't solve much yesterday, but starting today a little early hoping to make a good progress today.
 
 8th November:
-Starting off with my session to code. 
+Starting off with my session to code, got late as well.

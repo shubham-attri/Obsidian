@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+                "file": "Computing Students' Learning Difficulties in HCI Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+                "file": "Computing Students' Learning Difficulties in HCI Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md"
+                "file": "Computing Students' Learning Difficulties in HCI Education.md"
               }
             }
           }
@@ -188,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "943da91c4996a787",
+  "active": "d9e72818c9b39a0e",
   "lastOpenFiles": [
-    "Computing Students' Learning Difficulties in HCI Education.md",
     "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+    "Computing Students' Learning Difficulties in HCI Education.md",
     "Codeforces Journal.md",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Designing Mental Health Technologies that support the social ecosystem of college students .pdf",

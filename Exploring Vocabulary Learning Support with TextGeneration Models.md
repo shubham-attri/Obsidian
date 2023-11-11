@@ -27,6 +27,8 @@ The experiments involved a within-subjects study with 30 university students in 
 Overall, the study aimed to provide a rigorous and evidence-based approach to exploring the potential of story generation models for vocabulary learning. The researchers used a combination of qualitative and quantitative methods to gather data and evaluate the effectiveness of their tool, and they drew on insights from both teachers and students to inform their design decisions.
 
 
+
+
 **Designing of the Storyfier**
 
 The design and development process of the Storyfier system involved several phases, including the development of a story generation model, the design of a user interface, and the implementation of a prototype system. Here is a summary of the process:
@@ -40,16 +42,22 @@ The design and development process of the Storyfier system involved several phas
 
 Overall, the design and development process of the Storyfier system involved a combination of machine learning techniques and user-centered design principles to create a system that is both effective and engaging for vocabulary learning.
 
-**Evaluation**
+Designing space
 
 
-the within-subjects experiment conducted to evaluate the effectiveness of Storyfier involved 28 English-as-Second-Language Chinese students. The experiment compared the performance of participants using Storyfier with those using a baseline system without generative models. The experiment was conducted in read-cloze-write learning sessions, where participants read a story, completed a cloze test, and wrote a new story using the target words.
 
-The results of the experiment showed that participants generally favored the generated stories and writing assistance provided by Storyfier. However, their learning gains in the read-cloze-test sessions decreased compared to the cases they were with a baseline system without generative models. This suggests that while Storyfier may be effective in engaging learners and providing personalized content, it may not be as effective in improving recall and usage of target words in certain learning contexts.
+The researchers conducted a within-subjects study with 28 ESL students to explore the impact of Storyfier on vocabulary learning outcomes, experience, and perceptions. The study design involved two factors: AI vs no AI and read-only vs read-cloze-write. 
 
-The authors discuss several limitations of the system, including the need for more diverse and high-quality training data for the language model, the need for more sophisticated evaluation metrics, and the need for more research on how to effectively integrate generative models into language learning tools.
+The AI factor aimed to study the impacts of Storyfier's AI-generated story and adaptive writing support. The read-only vs read-cloze-write factor aimed to evaluate the impact of the cloze test and writing practices by comparing the participants' performance and experience in read-only and read-cloze-write sessions. 
 
-Overall, the within-subjects experiment provides valuable insights into the effectiveness of Storyfier and the potential of text generation models to support vocabulary learning. While there are limitations to the system, the results suggest that it has the potential to be an effective and engaging tool for language learners.
+The study design was within-subjects, which means that each participant experienced both conditions (AI vs no AI and read-only vs read-cloze-write) in a counterbalanced order. This design helped to control for individual differences in learning ability and motivation.
+
+The researchers measured learning outcomes using pre- and post-tests to assess participants' vocabulary knowledge and retention. They also collected data on participants' experience and perceptions of using the tool, including their satisfaction, engagement, and perceived usefulness.
+
+Overall, the study design was carefully designed to explore the impact of Storyfier on vocabulary learning outcomes, experience, and perceptions. The within-subjects design helped to control for individual differences, and the use of multiple measures helped to provide a comprehensive evaluation of the tool.
+
+
+
 
 **Summary** 
 
@@ -60,6 +68,14 @@ The main insights gained from the study are:
 3. The quality of story generation can be improved by incorporating more complex stories with a wide range of narrative structures into the dataset for model training. 
 
 1. The use of generative models may not always lead to better learning outcomes in certain learning contexts, such as read-cloze-test sessions.
+
+the researchers found that Storyfier's AI features reduced learning gains in read-cloze-write sessions, which suggests that learners may need to spend more effort in writing practices to achieve better learning outcomes. 
+
+However, the additional cloze and writing practices did improve learning outcomes compared to read-only activities. 
+
+The users favored the generated stories and writing assistance provided by the tool, which suggests that these features were helpful in supporting vocabulary learning. However, the researchers also noted that it is important to ensure that learners spend the necessary effort in their learning, even with the help of AI features. 
+
+Overall, the study provides valuable insights into the use of generative models for supporting vocabulary learning. The findings suggest that while AI features can be helpful, they should be designed to encourage necessary effort in learners and support multiple strands of vocabulary learning activities.
 
 
 Strengths of the paper:

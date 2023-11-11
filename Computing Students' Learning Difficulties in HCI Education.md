@@ -92,6 +92,7 @@ One limitation of the studies is that they were conducted in the context of intr
 
 Slide 6
 
+Implications 
 
 The findings of the studies have several implications for HCI pedagogy research and practice. First, the identification of the 15 learning difficulties provides a framework for instructors to anticipate and address common challenges that students may face when learning software interface design skills. This framework can inform the development of instructional materials, activities, and assessments that target specific difficulties.
 

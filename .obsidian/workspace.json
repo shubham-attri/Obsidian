@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9e72818c9b39a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing Students' Learning Difficulties in HCI Education.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeforces Journal.md",
+                "file": "Computing Students' Learning Difficulties in HCI Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codeforces Journal.md",
+                "file": "Computing Students' Learning Difficulties in HCI Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codeforces Journal.md"
+                "file": "Computing Students' Learning Difficulties in HCI Education.md"
               }
             }
           }
@@ -161,9 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e48e9d4e5800f5a",
+  "active": "d9e72818c9b39a0e",
   "lastOpenFiles": [
     "Codeforces Journal.md",
+    "Computing Students' Learning Difficulties in HCI Education.md",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Designing Mental Health Technologies that support the social ecosystem of college students .pdf",
     "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md",

@@ -69,6 +69,8 @@ one from the survey data and one from the interview transcripts (or two from the
 
 Slide 4
 
+Educators Perspective
+
 In Study 2, educators were asked to validate the set of difficulties identified in Study 1 and to identify any additional difficulties that were not captured in Study 1. The results showed that almost all of the student-reported difficulties were validated by educators. For each of the 15 student-reported learning difficulties, at least some educators reported they had observed it in their classes. Educators’ open-ended responses also described instances of nearly all of the struggles that students had self-reported in Study 1.
 In addition to validating the student-reported difficulties, educators reported three additional learning difficulties beyond those identified in Study 1. These difficulties were:
 1. Understanding the importance of design 

@@ -10,6 +10,23 @@ The system is powered by controllable language models that can generate stories 
 The authors evaluate the effectiveness of Storyfier in a within-subjects experiment with English-as-Second-Language Chinese students, and discuss insights from their findings for leveraging generative models to support learning tasks.
 
 
+
+**Methodology** 
+
+
+the study was conducted by a team of researchers from several universities in China and the United States, and it involved a series of interviews and experiments with English teachers and university students in China.
+
+The study was designed to address the limitations of existing vocabulary learning support tools, which often rely on rote memorization and fail to engage learners in meaningful and enjoyable activities. The researchers hypothesized that generating stories with target words could provide a more engaging and effective way to learn vocabulary.
+
+To test this hypothesis, the researchers developed a two-phase design and development process for a tool called Storyfier. In the first phase, they developed a controllable language model that could generate stories with given target word sets. They used the ROCStory corpus to contextualize CET-4 words and build story generation models. The ROCStory corpus collects over 100,000 five-sentence commonsense human-written stories. In the second phase, they worked with English teachers and university students to refine and evaluate Storyfier through a series of interviews and experiments.
+
+The interviews were conducted with three English teachers and five university students in China. The teachers had experience teaching IELTS, high-school English, and TOEFL writing, while the students were well-experienced in using different English vocabulary learning software for Chinese. The interviews were semi-structured and focused on participants' practices of story-based activities for teaching or learning vocabulary, as well as their feedback on the Storyfier tool. 
+
+The experiments involved a within-subjects study with 30 university students in China. The students were randomly assigned to use either Storyfier or a control tool for vocabulary learning. They completed pre- and post-tests to measure their vocabulary knowledge and retention, and they also provided feedback on their experience using the tools.
+
+Overall, the study aimed to provide a rigorous and evidence-based approach to exploring the potential of story generation models for vocabulary learning. The researchers used a combination of qualitative and quantitative methods to gather data and evaluate the effectiveness of their tool, and they drew on insights from both teachers and students to inform their design decisions.
+
+
 **Designing of the Storyfier**
 
 The design and development process of the Storyfier system involved several phases, including the development of a story generation model, the design of a user interface, and the implementation of a prototype system. Here is a summary of the process:

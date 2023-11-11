@@ -99,7 +99,11 @@ Overall, this research contributes to pedagogical content knowledge in HCI desig
 
 Slide 7
 
-To summarise the key findings and contributions of our research, we have identified 18 learning difficulties that computing students may face when learning and applying software interface design concepts. These difficulties were validated by educators who teach interface design to computing students. Our research provides a framework for instructors to anticipate and address common challenges that students may face when learning software interface design skills. Additionally, our research contributes to pedagogical content knowledge in HCI design education by providing a systematic and empirically grounded understanding of the learning difficulties that students face. Understanding student difficulties is crucial to improving HCI design education, as it can inform the development of effective instructional practices and materials, and can help to improve the quality of HCI design education.
+To summarise the key findings and contributions of our research, we have identified 18 learning difficulties that computing students may face when learning and applying software interface design concepts. 
+These difficulties were validated by educators who teach interface design to computing students. 
+The research provides a framework for instructors to anticipate and address common challenges that students may face when learning software interface design skills. 
+Additionally, our research contributes to pedagogical content knowledge in HCI design education by providing a systematic and empirically grounded understanding of the learning difficulties that students face.
+Understanding student difficulties is crucial to improving HCI design education, as it can inform the development of effective instructional practices and materials, and can help to improve the quality of HCI design education.
 
 Slide 8 
 

@@ -9,6 +9,8 @@ The study seeks to understand the experiences of students with a specific (compu
 
 
 Slide 2 
+Methods
+
 
 Study 1 aimed to identify the kinds of difficulties computing students face when learning software interface design skills. The methodology used in Study 1 involved collecting and analyzing data from both surveys and interviews. Surveys were conducted with undergraduate computing students enrolled in introductory software interface design classes at two large, public, U.S. universities. The students were asked to respond to questions related to their experiences learning software interface design skills. Interviews were also conducted with computing students who were learning design skills in both formal (post-secondary classes) and informal (on-the-job) settings. The interviews aimed to identify the difficulties that students faced when learning software interface design skills. 
 
@@ -24,12 +26,16 @@ Study 2 aimed to validate the set of difficulties identified in Study 1 and to i
 Regarding the setting environment background, we conducted our research in the context of introductory software interface design classes at two large, public, U.S. universities. The courses were taught by different instructors and used different textbooks and instructional materials. The students in our study had a computing-based educational background and were enrolled in programs where design was not the main focus.
 
 
-The surveys and interviews in Study 1 asked students about their experiences learning software interface design skills, including their perceived difficulties, their strategies for addressing difficulties, and their suggestions for improving instruction. The surveys in Study 2 asked educators about their experiences teaching interface design to computing students, including their perceptions of students' difficulties, their strategies for addressing difficulties, and their suggestions for improving instruction. The qualitative data in Study 2 included open-ended responses to survey questions and interview transcripts.
+**The surveys and interviews in Study 1 asked students about their experiences learning software interface design skills, including their perceived difficulties, their strategies for addressing difficulties, and their suggestions for improving instruction.** 
+
+The surveys in Study 2 asked educators about their experiences teaching interface design to computing students, including their perceptions of students' difficulties, their strategies for addressing difficulties, and their suggestions for improving instruction. The qualitative data in Study 2 included open-ended responses to survey questions and interview transcripts.
 
 
 
 
 Slide 3
+
+Key Findings 
 
 Study 1 identified 15 types of learning difficulties that computing students face when learning software interface design skills. These difficulties are listed in Table 1 of the PDF file, along with a brief description of each difficulty. Here are the 15 types of learning difficulties:
 
@@ -49,7 +55,8 @@ Study 1 identified 15 types of learning difficulties that computing students fac
 14. Understanding user behavior 
 15. Understanding user experience
 
-For each difficulty, the PDF file provides two representative quotes: one from the survey data and one from the interview transcripts (or two from the interviews, if the difficulty was not observed in surveys). Here are some key representative quotes from students for a few difficulties:
+For each difficulty, the PDF file provides two representative quotes: 
+one from the survey data and one from the interview transcripts (or two from the interviews, if the difficulty was not observed in surveys). Here are some key representative quotes from students for a few difficulties:
 
 
 - Project management skills: "I think the biggest challenge is just managing the project and making sure that everything is done on time and that everyone is doing their part." (U1A) 

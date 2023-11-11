@@ -1,14 +1,32 @@
 
 Slide 1
 
-The introduction and background of the PDF file explain that the intended audience is higher education instructors who teach software interface design principles within computing-focused departments, as well as researchers who study formal and informal HCI design learning contexts. The goal of the study is to identify different kinds of difficulties computing students face when learning about software interface design in order to support the development of HCI pedagogy. The study seeks to understand the experiences of students with a specific (computing-based) educational background enrolled in a program where design is not the main focus. The study collected and analyzed data from both surveys and interviews to identify the kinds of difficulties computing students face when learning software interface design skills.
+the intended audience is higher education instructors who teach software interface design principles within computing-focused departments, as well as researchers who study formal and informal HCI design learning contexts. 
+
+The goal of the study is to identify different kinds of difficulties computing students face when learning about software interface design in order to support the development of HCI pedagogy. 
+
+The study seeks to understand the experiences of students with a specific (computing-based) educational background enrolled in a program where design is not the main focus. The study collected and analyzed data from both surveys and interviews to identify the kinds of difficulties computing students face when learning software interface design skills.
 
 
 Slide 2 
 
 Study 1 aimed to identify the kinds of difficulties computing students face when learning software interface design skills. The methodology used in Study 1 involved collecting and analyzing data from both surveys and interviews. Surveys were conducted with undergraduate computing students enrolled in introductory software interface design classes at two large, public, U.S. universities. The students were asked to respond to questions related to their experiences learning software interface design skills. Interviews were also conducted with computing students who were learning design skills in both formal (post-secondary classes) and informal (on-the-job) settings. The interviews aimed to identify the difficulties that students faced when learning software interface design skills. 
 
+Regarding the methodology, our research involved two studies. Study 1 used surveys and interviews to collect data from undergraduate computing students enrolled in introductory software interface design classes at two large, public, U.S. universities. We collected demographic data to verify students' fit with the population of study, including students' self-reported fields of study (to verify they were computing-related) and their self-reported experience with designing interfaces (to verify their novice status). We administered the surveys electronically via a link sent to a learning management system at one university, and a researcher attended the classes and administered surveys to students on paper at the other university. From these three courses at two universities, we collected 117 responses (U1A: 13, U2B: 33, U2C: 71) representing perspectives from 88 students (U1A: 9, U2B: 41, U2C: 38) since some students wrote multiple questions.
+
+
+
+
+Study 2 used surveys and qualitative data to collect feedback from educators who teach interface design to computing students. We recruited participants through professional networks and social media, and collected data through an online survey and follow-up interviews. We received 31 survey responses and conducted 10 interviews.
+
 Study 2 aimed to validate the set of difficulties identified in Study 1 and to identify any additional difficulties that were not captured in Study 1. The methodology used in Study 2 involved surveys and interviews with HCI educators who teach software interface design concepts to computing students. The educators were asked to respond to questions related to the difficulties that their students faced when learning software interface design skills. The surveys and interviews aimed to validate the set of difficulties identified in Study 1 and to identify any additional difficulties that were not captured in Study 1.
+
+Regarding the setting environment background, we conducted our research in the context of introductory software interface design classes at two large, public, U.S. universities. The courses were taught by different instructors and used different textbooks and instructional materials. The students in our study had a computing-based educational background and were enrolled in programs where design was not the main focus.
+
+
+The surveys and interviews in Study 1 asked students about their experiences learning software interface design skills, including their perceived difficulties, their strategies for addressing difficulties, and their suggestions for improving instruction. The surveys in Study 2 asked educators about their experiences teaching interface design to computing students, including their perceptions of students' difficulties, their strategies for addressing difficulties, and their suggestions for improving instruction. The qualitative data in Study 2 included open-ended responses to survey questions and interview transcripts.
+
+
 
 
 Slide 3

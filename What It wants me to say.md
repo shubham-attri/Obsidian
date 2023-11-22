@@ -77,3 +77,26 @@ However, the authors also acknowledge several limitations of the study, includin
 The authors also discuss the implications of their findings for the design of future systems that aim to bridge the "abstraction gap" between end-user programmers and LLMs. They suggest that future systems should incorporate robust error handling and feedback mechanisms to help users recover from system failures and improve their confidence and sense of control in using the system.
 
 Overall, the discussion section provides a thoughtful analysis of the results and their implications for future research. The authors highlight the strengths and limitations of the proposed approach and suggest several areas for future work, which can help guide the development of more effective systems for end-user programming with LLMs.
+
+## Possible future work 
+
+1. Explore scalability and generalizability
+    - Test approach on more complex programming tasks
+    - Evaluate performance with larger datasets
+    - Unclear if approach will translate effectively
+2. Evaluate effectiveness for non-programmers
+    - Current study focused on those with expertise
+    - Important to test if approach works for broader end-user population
+    - Uncertainty around usability for non-programmers
+3. Investigate computational complexity
+    - Explore optimization methods for large-scale usage
+    - Current approach may have limitations in efficiency
+    - Need to improve performance metrics
+4. Study long-term usage effects
+    - Understand impacts on user performance over time
+    - Track how user confidence evolves with sustained usage
+    - Key to demonstrate approach can enable enduring capabilities
+5. Enhance approach to address limitations
+    - Use findings to improve the methodology
+    - Guide development of more robust systems
+    - Build on proposed approach to advance end-user programming

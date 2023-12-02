@@ -37,12 +37,9 @@
             "id": "943da91c4996a787",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Computer Networking _ A Top Down Approach, 7th, converted.pdf"
               }
             }
           },
@@ -110,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d690522f139902b6",
@@ -127,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+                "file": "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+                "file": "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md"
+                "file": "Computer Networking _ A Top Down Approach, 7th, converted.pdf"
               }
             }
           }
@@ -204,8 +200,9 @@
   "active": "943da91c4996a787",
   "lastOpenFiles": [
     "Computing Students' Learning Difficulties in HCI Education.md",
-    "What It wants me to say.md",
+    "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
     "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+    "What It wants me to say.md",
     "Codeforces Journal.md",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Designing Mental Health Technologies that support the social ecosystem of college students .pdf",
@@ -218,7 +215,6 @@
     "Slides for.md",
     "Computer Networks/Lecture Notes till Mid semester.md",
     "CN book.excalidraw.md",
-    "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
     "Course.md",
     "Machine - Learning - Tom Mitchell.pdf",
@@ -242,7 +238,6 @@
     "github.com/shubham-attri.md",
     "hello/shubha.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-07-31 04.19.32.excalidraw.md",
-    "2023-07-31.md"
+    "Excalidraw/Drawing 2023-07-31 04.19.32.excalidraw.md"
   ]
 }

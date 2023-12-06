@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codeforces Journal.md",
+                "file": "What It wants me to say.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Students' Learning Difficulties in HCI Education.md",
+                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+                "file": "What It wants me to say.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+                "file": "What It wants me to say.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md"
+                "file": "What It wants me to say.md"
               }
             }
           }
@@ -187,16 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8381ef118d47db28",
+  "active": "7e48e9d4e5800f5a",
   "lastOpenFiles": [
-    "What It wants me to say.md",
-    "Computing Students' Learning Difficulties in HCI Education.md",
-    "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
-    "Exploring Vocabulary Learning Support with TextGeneration Models.md",
     "Codeforces Journal.md",
+    "Exploring Vocabulary Learning Support with TextGeneration Models.md",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Designing Mental Health Technologies that support the social ecosystem of college students .pdf",
     "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md",
+    "Computing Students' Learning Difficulties in HCI Education.md",
+    "What It wants me to say.md",
+    "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
     "ChatPDF-Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media (1).txt",
     "Independent Project.md",
     "Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media.pdf",

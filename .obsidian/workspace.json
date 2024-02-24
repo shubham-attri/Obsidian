@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a327ad93fd8c6f73",
+        "id": "27d99a63a6a1f436",
         "type": "tabs",
         "children": [
           {
-            "id": "7e48e9d4e5800f5a",
+            "id": "a29eca587207183b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What It wants me to say.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9e72818c9b39a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8381ef118d47db28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d690522f139902b6",
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What It wants me to say.md",
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What It wants me to say.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -162,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What It wants me to say.md"
+                "file": "JavaScript.md"
               }
             }
           }
@@ -186,15 +163,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e48e9d4e5800f5a",
+  "active": "a29eca587207183b",
   "lastOpenFiles": [
-    "Codeforces Journal.md",
+    "JavaScript.md",
+    "Pasted image 20240209210411 1.png",
+    "Pasted image 20240209210411.png",
+    "Pasted image 20240110144512.png",
+    "Pasted image 20240110144359.png",
+    "Pasted image 20240110144327.png",
+    "Screenshot 2023-08-18 at 4.46.25 PM 1.png",
+    "CSE508_Winter_A1_2021354.md",
+    "Screenshot 2024-02-09 at 9.29.32 PM.png",
+    "Screenshot 2024-02-09 at 9.20.08 PM.png",
+    "CIPD.md",
+    "Screenshot 2024-02-09 at 9.00.55 PM.png",
+    "Screenshot 2024-02-09 at 8.32.44 PM.png",
+    "What It wants me to say.md",
+    "1 Getting Started.md",
+    "Assignment Submission MIDAS LAB_Project8.md",
     "Exploring Vocabulary Learning Support with TextGeneration Models.md",
+    "Codeforces Journal.md",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Designing Mental Health Technologies that support the social ecosystem of college students .pdf",
     "Designing Mental Health Technologies that Support the Social Ecosystem of College Students.md",
     "Computing Students' Learning Difficulties in HCI Education.md",
-    "What It wants me to say.md",
     "Computer Networking _ A Top Down Approach, 7th, converted.pdf",
     "ChatPDF-Exploring_the_Use_of_Personalized_AI_for_Identifying_Misinformation_on_Social_Media (1).txt",
     "Independent Project.md",
@@ -207,13 +199,9 @@
     "Age-Based Certification of Live-Stream Chats Using Sentiment Analysis.md",
     "Course.md",
     "Machine - Learning - Tom Mitchell.pdf",
-    "Screenshot 2023-08-18 at 4.46.25 PM.png",
-    "Screenshot 2023-08-18 at 4.46.25 PM 1.png",
     "Computer Networks/Assignments/CSE 232 Assignment 1.md",
     "Academic/Course/Machine Learning.md",
     "Screenshot 2023-08-18 at 4.46.34 PM 1.png.md",
-    "Screenshot 2023-08-18 at 4.46.34 PM 1.png",
-    "Screenshot 2023-08-18 at 4.46.34 PM.png",
     "Academic/Course/Computer Networks.md",
     "Computer Networks/Assignments",
     "Computer Networks",
@@ -223,10 +211,6 @@
     "Research",
     "Academic/College DashBoard.md",
     "Academic/Courses",
-    "Academic/Course/Software Development using Open Source.md",
-    "github.com/shubham-attri.md",
-    "hello/shubha.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2023-07-31 04.19.32.excalidraw.md"
+    "Untitled.canvas"
   ]
 }

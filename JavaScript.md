@@ -16,6 +16,3 @@ We can pass a function parameter in a function as a parameter, think of it as ch
 There is some native JS and there are API's. We can delegate backend code which we don't wanna show using API
 
 Js is asynchronous in nature ie there is no parallelism .
-
-
-';'

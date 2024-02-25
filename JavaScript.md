@@ -18,3 +18,4 @@ There is some native JS and there are API's. We can delegate backend code which 
 Js is asynchronous in nature ie there is no parallelism .
 
 
+';'

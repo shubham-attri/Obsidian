@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "018d3a8434a48789",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "018d3a8434a48789",
+  "active": "a29eca587207183b",
   "lastOpenFiles": [
     "JavaScript.md",
     "Pasted image 20240209210411 1.png",

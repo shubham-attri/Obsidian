@@ -15,4 +15,6 @@ We can pass a function parameter in a function as a parameter, think of it as ch
 
 There is some native JS and there are API's. We can delegate backend code which we don't wanna show using API
 
-- [ ] Js is asynchronous in nature ie there is no parallelism .
+Js is asynchronous in nature ie there is no parallelism .
+
+There is a webAPI call if the thread waits for some response and makes the program wait, then the current thread run the former task in the call stack

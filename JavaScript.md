@@ -35,3 +35,6 @@ Calling one async call after another makes a chain of async calls for the webAPI
 
 Creating an object in JS and then having one parameter as a function is fine and then we can call the function using the object.
 
+In Promise When i write a series of async code in the sync file, i were initially given a callback to the api, but when i call a promise it means they give a promise or a token saying when i will be done with my task i will get back to you, and here is my acknowledgment for the asyc call which i will be doing.
+
+writing a async function, try returning using an promise function

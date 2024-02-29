@@ -17,4 +17,5 @@ There is some native JS and there are API's. We can delegate backend code which 
 
 Js is asynchronous in nature ie there is no parallelism .
 
-There is a webAPI call if the thread waits for some response and makes the program wait, then the current thread run the former task in the call stack
+There is a webAPI call if the thread waits for some response and makes the program wait, then the current thread run the former task in the call stack, once the webAPI cal lis completed, it gets added to JS Queue where it waits for the JS Call Stack to become idle and things are added as per the Queue of API, ie JS can't do 2 things at a time. They can delegate a task which requires response and makes the program idle, and when the delegated task is completed it gets added to the queue. 
+

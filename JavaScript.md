@@ -30,4 +30,4 @@ Inject JS code in website to write code in the website, When you inject code in 
 
 >> Promises 
 
-Chaining 
+Calling one async call after another makes a chain of async calls for the webAPI to be delegated that gets added in the queue and takes time, it looks very complex chaining asyc calls 

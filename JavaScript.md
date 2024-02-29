@@ -34,3 +34,4 @@ Calling one async call after another makes a chain of async calls for the webAPI
 
 
 Creating an object in JS and then having one parameter as a function is fine and then we can call the function using the object.
+

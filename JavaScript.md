@@ -42,3 +42,12 @@ writing a async function, try returning using an promise function.
 In promise there is intimate process that is initiated where the called promise function will just do their part and will make the sync thread acknowledge they have do their part, call back and promise give the same result.
 
 Promise and Callback are both ways of writing a function both works fine, 
+
+function fileisread(content){
+console.log(content);
+}
+
+fs.read("a.txt",fileisread); %% Here first the file is read and then fileisread function is called %%
+fs.read("a.txt").then(fileisread) %% Same as the above and this is the promise way of writing a asyn function in js %%
+
+The above is using promises, defining is complex task.

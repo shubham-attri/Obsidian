@@ -37,4 +37,8 @@ Creating an object in JS and then having one parameter as a function is fine and
 
 In Promise When i write a series of async code in the sync file, i were initially given a callback to the api, but when i call a promise it means they give a promise or a token saying when i will be done with my task i will get back to you, and here is my acknowledgment for the asyc call which i will be doing.
 
-writing a async function, try returning using an promise function
+writing a async function, try returning using an promise function.
+
+In promise there is intimate process that is initiated where the called promise function will just do their part and will make the sync thread acknowledge they have do their part, call back and promise give the same result.
+
+Promise and Callback are both ways of writing a function both works fine, 

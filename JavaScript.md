@@ -30,3 +30,4 @@ Inject JS code in website to write code in the website, When you inject code in 
 
 >> Promises 
 
+Chaining 

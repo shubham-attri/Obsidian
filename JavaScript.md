@@ -16,6 +16,17 @@ We can pass a function parameter in a function as a parameter, think of it as ch
 There is some native JS and there are API's. We can delegate backend code which we don't wanna show using API
 
 Js is asynchronous in nature ie there is no parallelism .
+But JS is synchronous Programming language.
+
+>> Callbacks 
 
 There is a webAPI call if the thread waits for some response and makes the program wait, then the current thread run the former task in the call stack, once the webAPI cal lis completed, it gets added to JS Queue where it waits for the JS Call Stack to become idle and things are added as per the Queue of API, ie JS can't do 2 things at a time. They can delegate a task which requires response and makes the program idle, and when the delegated task is completed it gets added to the queue. 
+
+
+JS is meant for single threaded language meant for simple things, it is good at delegating tasks.
+
+Inject JS code in website to write code in the website, When you inject code in website, it is asynchronous is nature. The requests made are put into queue to be waited for the stack to get free.
+
+
+>> Promises 
 

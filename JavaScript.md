@@ -31,3 +31,6 @@ Inject JS code in website to write code in the website, When you inject code in 
 >> Promises 
 
 Calling one async call after another makes a chain of async calls for the webAPI to be delegated that gets added in the queue and takes time, it looks very complex chaining asyc calls, if poorly written code could put into the callback Hell
+
+
+Creating an object in JS and then having one parameter as a function is fine and then we can call the function using the object.

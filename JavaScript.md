@@ -48,7 +48,7 @@ console.log(content);
 }
 
 fs.read("a.txt",fileisread); %% Here first the file is read and then fileisread function is called %%
-fs.read("a.txt").then(fileisread) %% Same as the above and this is the promise way of writing a asyn function in js %%
+fs.read("a.txt").then(fileisread) %% Same as the above and this is the promise way of writing a asyn function in js %%;
 
 The above is using promises, defining is complex task.
 

@@ -52,3 +52,49 @@ fs.read("a.txt").then(fileisread) %% Same as the above and this is the promise w
 
 The above is using promises, defining is complex task.
 
+Function Constructor
+It creates an function object, as per my observation it is widely used, creates a function executes it globally, have security concerns with it though.
+
+```
+new Function(functionBody)
+new Function(arg1, functionBody)
+new Function(arg1, arg2, functionBody)
+new Function(arg1, arg2, /* …, */ argN, functionBody)
+
+Function(functionBody)
+Function(arg1, functionBody)
+Function(arg1, arg2, functionBody)
+Function(arg1, arg2, /* …, */ argN, functionBody)
+
+```
+
+
+Object constructor 
+
+```
+new Object()
+new Object(value)
+
+Object()
+Object(value)
+```
+
+It's return values is a object, we can define so many functions within it
+assign 
+create
+defineProperties => This is very important property
+```
+const obj = {};
+Object.defineProperties(obj, {
+  property1: {
+    value: true,
+    writable: true,
+  },
+  property2: {
+    value: "Hello",
+    writable: false,
+  },
+  // etc. etc.
+});
+
+```

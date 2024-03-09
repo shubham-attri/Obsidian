@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbfe45866adc1f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to LLM's and the generative AI project Lifecycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "89cf9c5db060a1fd",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Introduction to LLM's and the generative AI project Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Introduction to LLM's and the generative AI project Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "Introduction to LLM's and the generative AI project Lifecycle.md"
               }
             }
           }
@@ -147,8 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b39434aa46daf03",
+  "active": "bbfe45866adc1f71",
   "lastOpenFiles": [
+    "Pasted image 20240309082329.png",
+    "Pasted image 20240309082117.png",
+    "Pasted image 20240309081945.png",
+    "JavaScript.md",
+    "Introduction to LLM's and the generative AI project Lifecycle.md",
     "Independent Project.md",
     "Assignment Submission MIDAS LAB_Project8.md",
     "Slides for.md",

@@ -90,12 +90,9 @@ Potential Contributions:
 - Contribution to the ongoing efforts to mitigate the potential harms associated with manipulated media content by providing infrastructure and deployable defense mechanisms against credential compromise attempts using AI-generated media.
 
 Project Plan:
-(Provide a detailed project plan, including tasks, timelines, milestones, and risk management strategies.)
 
-Conclusion:
-This research endeavors to address the escalating challenges posed by deepfake technology through the development of an innovative detection method. By introducing a hybrid neural network architecture, our approach aims to push the boundaries of current deepfake detection capabilities, contributing to the ongoing efforts to mitigate the potential harms associated with manipulated media content.
+<Yha pr architectures ayenge>
 
-Note: This draft covers the key components of an updated submission, including the problem statement, literature review, proposed solution, evaluation methodology, baseline results, potential contributions, and a project plan. Feel free to expand upon each section with more details and refine the content based on your specific requirements.
 
 
 **References**
@@ -111,3 +108,20 @@ D. Güera and E. J. Delp, "Deepfake Video Detection Using Recurrent Neural Netw
 I. Laptev, M. Marszalek, C. Schmid, and B. Rozenfeld. Learning realistic hu- man actions from movies. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 1–8, June 2008. Anchorage, AK  
 
 Umur Aybars Ciftci, ̇Ilke Demir, Lijun Yin “Detection of Synthetic Portrait Videos using Biological Signals” in arXiv:1901.02212v2
+
+- [deepfake-detection · GitHub Topics](https://github.com/topics/deepfake-detection)
+
+- [clpeng/Awesome-Face-Forgery-Generation-and-Detection: A curated list of articles and codes related to face forgery generation and detection.](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection)
+
+- [Daisy-Zhang/Awesome-Deepfakes-Detection: A list of tools, papers and code related to Deepfake Detection.](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
+
+- [selimsef/dfdc_deepfake_challenge: A prize winning solution for DFDC challenge](https://github.com/selimsef/dfdc_deepfake_challenge)
+
+- [dessa-oss/DeepFake-Detection: Towards deepfake detection that actually works](https://github.com/dessa-oss/DeepFake-Detection)
+
+- [Machine Learning Datasets | Papers With Code](https://paperswithcode.com/datasets?task=deepfake-detection)
+
+- [TencentYoutuResearch/OpenWorld-DeepFakeAttribution: Code for ICCV 2023 paper "Contrastive Pseudo Learning for Open-World DeepFake Attribution"](https://github.com/TencentYoutuResearch/OpenWorld-DeepFakeAttribution)
+
+- [shahroztariq/CLRNet: One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework](https://github.com/shahroztariq/CLRNet)
+

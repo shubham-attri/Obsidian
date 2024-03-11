@@ -70,3 +70,6 @@ There is a limit to context window so prompt should be accordingly.
 
 Generative AI Project Lifecycle
 ![[Pasted image 20240309092353.png]]
+
+
+.

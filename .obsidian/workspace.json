@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE508_Winter2024_LiteratureReview_13.md",
+                "file": "Introduction to LLM's and the generative AI project Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE508_Winter2024_LiteratureReview_13.md",
+                "file": "Introduction to LLM's and the generative AI project Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE508_Winter2024_LiteratureReview_13.md"
+                "file": "Introduction to LLM's and the generative AI project Lifecycle.md"
               }
             }
           }
@@ -173,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87b3f7644b212fcc",
+  "active": "bbfe45866adc1f71",
   "lastOpenFiles": [
+    "CSE508_Winter2024_LiteratureReview_13.md",
     "Introduction to LLM's and the generative AI project Lifecycle.md",
     "JavaScript.md",
-    "CSE508_Winter2024_LiteratureReview_13.md",
     "Pasted image 20240309092353.png",
     "Pasted image 20240309091820.png",
     "Pasted image 20240309090826.png",

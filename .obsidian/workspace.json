@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efaba4811529cb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to LLM's and the generative AI project Lifecycle.md",
+                "file": "Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to LLM's and the generative AI project Lifecycle.md",
+                "file": "Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to LLM's and the generative AI project Lifecycle.md"
+                "file": "Week 2.md"
               }
             }
           },
@@ -189,11 +202,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbfe45866adc1f71",
+  "active": "efaba4811529cb45",
   "lastOpenFiles": [
-    "CSE508_Winter2024_LiteratureReview_13.md",
-    "Introduction to LLM's and the generative AI project Lifecycle.md",
+    "Week 2.md",
     "JavaScript.md",
+    "Introduction to LLM's and the generative AI project Lifecycle.md",
+    "CSE508_Winter2024_LiteratureReview_13.md",
     "Pasted image 20240309092353.png",
     "Pasted image 20240309091820.png",
     "Pasted image 20240309090826.png",

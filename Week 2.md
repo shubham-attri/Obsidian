@@ -7,3 +7,7 @@ Middleware
 
 ##### HTML Servers
 
+Client Server Model
+
+Client  -> Server
+

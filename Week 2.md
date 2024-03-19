@@ -11,6 +11,4 @@ Client Server Model
 
 Client  -> Server
 
-
-
-
+HTTPS: Listens to Requests and sends 

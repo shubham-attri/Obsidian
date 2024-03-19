@@ -12,3 +12,8 @@ Client Server Model
 Client  -> Server
 
 HTTPS: Listens to Requests and sends 
+
+Get : Get 
+post : make a 
+put : update the changes
+delete : delete the change

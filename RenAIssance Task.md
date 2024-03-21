@@ -34,3 +34,9 @@ Here's a roadmap you can follow to solve the Transformer Architecture test (Test
    - Submit your work (CV, code repository/notebook, and PDF of the notebook with output) to human-ai@cern.ch with the subject line "Evaluation Test: RenAIssance".
 
 Throughout the process, feel free to reach out to the organizers or mentors for any clarification or assistance you may need. Additionally, make sure to follow best practices for reproducible research, code organization, and documentation.
+
+
+
+First extract the dataset and split it, split it accordingly
+Then using the TrOCR-base-str model, fine tune it on our dataset 
+then use various evaluation metrics and test the results.

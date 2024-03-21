@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87068c16693c577f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RenAIssance Task.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2.md",
+                "file": "RenAIssance Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2.md",
+                "file": "RenAIssance Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2.md"
+                "file": "RenAIssance Task.md"
               }
             }
           },
@@ -202,8 +215,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efaba4811529cb45",
+  "active": "87068c16693c577f",
   "lastOpenFiles": [
+    "RenAIssance Task.md",
     "Week 2.md",
     "JavaScript.md",
     "Introduction to LLM's and the generative AI project Lifecycle.md",

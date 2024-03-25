@@ -41,3 +41,6 @@ First extract the dataset and split it, split it accordingly
 Then using the TrOCR-base-str model, fine tune it on our dataset 
 then use various evaluation metrics and test the results.
 
+
+
+

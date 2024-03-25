@@ -71,19 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58096c0216486086",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +215,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58096c0216486086",
+  "active": "87068c16693c577f",
   "lastOpenFiles": [
     "RenAIssance Task.md",
     "Week 2.md",

@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0de2a185b3f9bd9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE508_Winter24_.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RenAIssance Task.md",
+                "file": "CSE508_Winter24_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RenAIssance Task.md",
+                "file": "CSE508_Winter24_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RenAIssance Task.md"
+                "file": "CSE508_Winter24_.md"
               }
             }
           },
@@ -215,8 +228,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87068c16693c577f",
+  "active": "0de2a185b3f9bd9e",
   "lastOpenFiles": [
+    "CSE508_Winter24_.md",
     "RenAIssance Task.md",
     "Week 2.md",
     "JavaScript.md",

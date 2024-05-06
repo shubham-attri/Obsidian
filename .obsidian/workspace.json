@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f415ca1a0c318164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Assignments/CSE508_Winter2024_ProjectReport_13.md",
+                "file": "Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Assignments/CSE508_Winter2024_ProjectReport_13.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Assignments/CSE508_Winter2024_ProjectReport_13.md"
+                "file": "Task.md"
               }
             }
           },
@@ -228,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a166b8acf18b9c24",
+  "active": "f415ca1a0c318164",
   "lastOpenFiles": [
-    "RenAIssance Task.md",
     "Computer Networks/Assignments/CSE508_Winter2024_ProjectReport_13.md",
+    "Task.md",
+    "RenAIssance Task.md",
     "CSE508_Winter2024_A3_2021354.md",
     "review-summarisation-with-gpt2.ipynb",
     "Screenshot 2024-04-22 at 9.19.52 PM.png",

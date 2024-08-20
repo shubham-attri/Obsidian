@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f415ca1a0c318164",
+            "id": "1de8ee37948a2749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task for Deploying GPT and Stress testing it.md",
+                "file": "Shubham.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c1f4a0282512a99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "89cf9c5db060a1fd",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task for Deploying GPT and Stress testing it.md",
+                "file": "Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task for Deploying GPT and Stress testing it.md",
+                "file": "Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task for Deploying GPT and Stress testing it.md"
+                "file": "Hello.md"
               }
             }
           },
@@ -142,8 +155,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "df56c71fd29266a3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -162,12 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f415ca1a0c318164",
+  "active": "6c1f4a0282512a99",
   "lastOpenFiles": [
+    "Shubham.md",
+    "Hello.md",
+    "Untitled",
+    "Week 2.md",
+    "Shubhamattri.com.md",
+    "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Task for Deploying GPT and Stress testing it.md",
     "Computer Networks/Assignments/CSE508_Winter2024_ProjectReport_13.md",
     "RenAIssance Task.md",
-    "Week 2.md",
     "CSE508_Winter2024_LiteratureReview_13.md",
     "Introduction to LLM's and the generative AI project Lifecycle.md",
     "JavaScript.md",

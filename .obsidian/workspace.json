@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1de8ee37948a2749",
+            "id": "6c1f4a0282512a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c1f4a0282512a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello.md",
+                "file": "Shubham.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello.md",
+                "file": "Shubham.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello.md"
+                "file": "Shubham.md"
               }
             }
           },
@@ -186,10 +172,10 @@
   },
   "active": "6c1f4a0282512a99",
   "lastOpenFiles": [
-    "Shubham.md",
     "Hello.md",
+    "Shubham.md",
+    "Shubham.md",
     "Untitled",
-    "Week 2.md",
     "Shubhamattri.com.md",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
     "Task for Deploying GPT and Stress testing it.md",

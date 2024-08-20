@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shubham.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shubham.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shubham.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shubham.md"
+                "file": "README.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "6c1f4a0282512a99",
   "lastOpenFiles": [
+    "Shubham.md",
+    "README.md",
     "Hello.md",
-    "Shubham.md",
-    "Shubham.md",
     "Untitled",
     "Shubhamattri.com.md",
     "Exploring the Use of Personalised AI for Identifying Misinformation on Social Media.md",
